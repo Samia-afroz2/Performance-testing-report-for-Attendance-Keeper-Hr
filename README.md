@@ -1,4 +1,4 @@
-Project Overview
+1️⃣ Project Overview
 
 This project demonstrates end-to-end performance testing of the Attendance Keeper HR web application using Apache JMeter.
 The goal is to evaluate system behavior under load, measure response times, throughput, and identify potential performance bottlenecks across key business modules.
