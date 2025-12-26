@@ -29,33 +29,31 @@ Each module was executed with different request distributions to simulate real u
 
 3️⃣ Tools & Technologies Used
 
-Apache JMeter 5.6.3
+-Apache JMeter 5.6.3
 
-HTTP Request Sampler
+-HTTP Request Sampler
 
-Throughput Controller
+-Throughput Controller
 
-Uniform Random Timer
+-Uniform Random Timer
 
-Aggregate Report Listener
+-Aggregate Report Listener
 
-View Results Tree
+-View Results Tree
 
-CSV Data Set Config (if used)
-
-MacOS / Windows
+MacOS 
 
 4️⃣ Test Strategy
 
-Multiple user scenarios handled using Throughput Controllers
+-Multiple user scenarios handled using Throughput Controllers
 
-Request execution percentage controlled per module
+-Request execution percentage controlled per module
 
-Think time simulated using Uniform Random Timer
+-Think time simulated using Uniform Random Timer
 
-Load distribution designed to mimic real production usage
+-Load distribution designed to mimic real production usage
 
-Performance metrics collected via Aggregate Report
+-Performance metrics collected via Aggregate Report
 
 5️⃣ Key Performance Metrics Analyzed
 
@@ -75,8 +73,8 @@ Received & Sent KB/sec
 
 📊 Result Summary:
 
-Total Requests: 619
-Error Rate: 0.00%
-Average Response Time: 187 ms
-Throughput: 13.8/sec
-System remained stable under configured load
+-Total Requests: 619
+-Error Rate: 0.00%
+-Average Response Time: 187 ms
+-Throughput: 13.8/sec
+-System remained stable under configured load
